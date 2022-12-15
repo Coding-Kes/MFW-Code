@@ -1,0 +1,24 @@
+img
+{
+height: 400px;
+width: 500px;
+}
+body
+{
+    background-color: lightblue ;
+    border: dashed;
+    border-color: lightpink;
+    border-width: 15px;
+}
+.line
+{
+    background-color: black;
+    height: 5px;
+    width: 120px;
+    margin: 10px auto;
+}
+#chat
+{
+width: 500px;
+height: 620px;
+}
